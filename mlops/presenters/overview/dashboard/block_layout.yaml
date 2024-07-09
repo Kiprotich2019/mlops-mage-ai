@@ -13,6 +13,7 @@ blocks:
       type: chart_code
     error: null
     name: Distribution of performance metrics
+    name_new: Distribution of performance metrics
     skip_render: false
     type: chart
     uuid: distribution_of_performance_metrics
