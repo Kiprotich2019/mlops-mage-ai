@@ -15,4 +15,8 @@ features:
   operation_history: true
   polars: true
 help_improve_mage: true
+<<<<<<< HEAD
 project_uuid: 5e028efb37d14112b8aae54a8fadb9b3
+=======
+project_uuid: cb9fb4e340a541179abfa397a8694cb4
+>>>>>>> origin/master
